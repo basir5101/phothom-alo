@@ -5,8 +5,10 @@
     position: relative;
     top: -5px;
 }
+.navigation{
+    background-color: white;
+}
 .navbar .cat{
-    height: 300px;
     position: relative;
     top: -5px;
 }
