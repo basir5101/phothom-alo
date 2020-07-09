@@ -1,7 +1,12 @@
 
-.navbar img{
+.navbar .bsmrstu{
     height: 30px;
     width: 120px;
+    position: relative;
+    top: -5px;
+}
+.navbar .cat{
+    height: 300px;
     position: relative;
     top: -5px;
 }
