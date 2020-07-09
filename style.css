@@ -1,0 +1,43 @@
+
+.navbar img{
+    height: 30px;
+    width: 120px;
+    position: relative;
+    top: -5px;
+}
+i{
+    font-size: 20px;
+}
+.navbar button{
+    border: none;
+    color: black;
+}
+hr{
+    position: relative;
+    top: -20px;
+    height: 1px;
+    width: 97%;
+    background-color: black;
+    border-radius: 50%;
+    box-shadow: 0px 1px 2px grey;
+}
+.article img{
+    height: 120px;
+    width: 50%;
+    margin-left: 25%;
+}
+.fa-facebook, .fa-twitter{
+ height: 30px;
+ width: 20px;
+ line-height: 30px;
+ padding: 0px 23px 0 10px;
+ color: white;
+ border-radius: 50%;
+}
+.fa-facebook{
+    
+ background-color: rgb(35, 35, 151);
+}
+.fa-twitter{
+    background-color: rgb(8, 192, 248);
+}
